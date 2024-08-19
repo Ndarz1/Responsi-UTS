@@ -1,0 +1,60 @@
+-----------------------
+Nama 					: 
+Email 				: 
+Nomor 				: 
+Judul Buku 		: Critical Mass
+Waktu Awal 		: 
+Waktu Akhir 	: 
+Hari Pinjam 	: 0
+Biaya 				: 0
+-----------------------
+-----------------------
+Nama 					: 
+Email 				: 
+Nomor 				: 
+Judul Buku 		: Critical Mass
+Waktu Awal 		: 
+Waktu Akhir 	: 
+Hari Pinjam 	: 0
+Biaya 				: 0
+-----------------------
+-----------------------
+Nama 					: 
+Email 				: 
+Nomor 				: 
+Judul Buku 		: Critical Mass
+Waktu Awal 		: 
+Waktu Akhir 	: 
+Hari Pinjam 	: 0
+Biaya 				: 0
+-----------------------
+-----------------------
+Nama 					: 
+Email 				: 
+Nomor 				: 
+Judul Buku 		: Critical Mass
+Waktu Awal 		: 
+Waktu Akhir 	: 
+Hari Pinjam 	: 0
+Biaya 				: 0
+-----------------------
+-----------------------
+Nama 					: 
+Email 				: 
+Nomor 				: 
+Judul Buku 		: Critical Mass
+Waktu Awal 		: 
+Waktu Akhir 	: 
+Hari Pinjam 	: 0
+Biaya 				: 0
+-----------------------
+-----------------------
+Nama 					: Nafi'ah Khoirunnisa
+Email 				: anandarizz03@gmail.com
+Nomor 				: 081202
+Judul Buku 		: Swallowed Star
+Waktu Awal 		: 2024-07-16T11:49
+Waktu Akhir 	: 2024-07-31T11:49
+Hari Pinjam 	: 15
+Biaya 				: 85000
+-----------------------
